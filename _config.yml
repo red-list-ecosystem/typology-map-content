@@ -1,0 +1,49 @@
+title: Content
+baseurl: 'https://unfolddata.github.io/rle-content'
+imageurl: 'https://unfolddata.github.io/rle-content/assets/uploads'
+siteurl: 'https://unfolddata.github.io/rle-content/'
+permalink: /:categories/:title
+markdown: kramdown
+languages: &languages
+  - name: 'English'
+    value: 'en'
+prose:
+  media: "assets/uploads"
+  rooturl: '_posts'
+  siteurl: 'https://unfolddata.github.io/rle-content/'
+  relativeLinks: 'https://unfolddata.github.io/rle-content/resources/links.jsonp'
+  _posts:
+    - name: "layout"
+      field:
+        element: "hidden"
+        value: "default"
+    - name: "permalink"
+      field:
+        element: "text"
+        label: "Permalink"
+        value: "/"
+    - name: "title"
+      field:
+        element: "text"
+        label: "Title"
+        value: ""
+  _posts/explore:
+    - name: "layout"
+      field:
+        element: "hidden"
+        value: "default"
+    - name: "permalink"
+      field:
+        element: "text"
+        label: "Permalink"
+        value: "/"
+    - name: "title"
+      field:
+        element: "text"
+        label: "Title"
+        value: ""
+    - name: "content-id"
+      field:
+        element: "text"
+        label: "ID"
+        value: ""
