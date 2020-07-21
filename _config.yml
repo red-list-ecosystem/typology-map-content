@@ -31,7 +31,7 @@ prose:
     - name: "layout"
       field:
         element: "hidden"
-        value: "default"
+        value: "explore"
     - name: "permalink"
       field:
         element: "text"
