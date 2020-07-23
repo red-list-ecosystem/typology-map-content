@@ -1,7 +1,7 @@
 title: Content
-baseurl: 'https://unfolddata.github.io/rle-content'
-imageurl: 'https://unfolddata.github.io/rle-content/assets/uploads'
-siteurl: 'https://unfolddata.github.io/rle-content/'
+baseurl: 'https://red-list-ecosystem.github.io/typology-map-content'
+imageurl: 'https://red-list-ecosystem.github.io/typology-map-content/assets/uploads'
+siteurl: 'https://red-list-ecosystem.github.io/typology-map-content/'
 permalink: /:categories/:title
 markdown: kramdown
 languages: &languages
@@ -10,8 +10,7 @@ languages: &languages
 prose:
   media: "assets/uploads"
   rooturl: '_posts'
-  siteurl: 'https://unfolddata.github.io/rle-content/'
-  relativeLinks: 'https://unfolddata.github.io/rle-content/resources/links.jsonp'
+  siteurl: 'https://red-list-ecosystem.github.io/typology-map-content/'
   _posts:
     - name: "layout"
       field:
