@@ -6,19 +6,19 @@ lang: es
 title: Resources
 ---
 
-# Marcos Internacionales
+## Marcos Internacionales
 
-## Ecosistemas en el Marco Global de Biodiversidad
+### Ecosistemas en el Marco Global de Biodiversidad
 
 Los ecosistemas son vitales para la vida y son un aspecto destacado del Marco Global de Biodiversidad, que tiene como objetivo proteger y restaurar la biodiversidad. Lee este [informe de políticas](https://iucn.org/resources/policy-brief/ecosystems-global-biodiversity-framework) para aprender más sobre el papel de la Tipología Global de Ecosistemas de la UICN.
 
-# Productos de Conocimiento de la UICN
+## Productos de Conocimiento de la UICN
 
 El [sitio oficial de la Lista Roja de Ecosistemas de la UICN](https://iucnrle.org/) incluye [noticias](https://iucnrle.org/blog/), [cobertura mediática](https://iucnrle.org/press/media-coverage/) y [eventos](https://iucnrle.org/events/), y puedes leer más sobre el [contexto de la Clasificación Global de Ecosistemas](https://iucnrle.org/global-eco-typo).
 
-# Clasificación Global de Ecosistemas de la UICN
+## Clasificación Global de Ecosistemas de la UICN
 
-## Informes y documentos
+### Informes y documentos
 *La versión 2.1* (en inglés) fue publicada como Material 
 Suplementario del siguiente artículo de investigación:
 Keith, D. A., J. R. Ferrer-Paris, E. Nicholson, M. Bishop, B. A, Polidoro, E. Ramirez-Llodra, M. G. Tozer, J. L. Nel, R. Mac Nally, E. J. Gregr, K. E. Watermeyer, F. Essl, D. Faber-Langendoen, J. Franklin, C. E. R. Lehmann, A. Etter, D. J. Roux, J. S. Stark, J. A. Rowland, N. A. Brummitt, U. C. Fernandez-Arcaya, I. M. Suthers, S. K. Wiser, I. Donohue, L. J. Jackson, R. T. Pennington, N. Pettorelli, A. Andrade, A. Lindgaard, T. Tahvanainen, A. Terauds, M. A. Chadwick, N. J. Murray, J. Moat, P. Pliscoff, I. Zager, and R. T. Kingsford (2022) *A function-based typology for Earth’s ecosystems* **Nature**  610, 513–518. DOI:[10.1038/s41586-022-05318-4](https://doi.org/10.1038/s41586-022-05318-4). 
@@ -31,17 +31,17 @@ La traducción de la versión 2.1 al español fue completada en diciembre de 202
 
 Las traducciones en otros idiomas están en preparación.
 
-## Referencias cruzadas u homologación a niveles inferiores
+### Referencias cruzadas u homologación a niveles inferiores
 
 Las directrices y herramientas para la referencia cruzada de tipos de ecosistemas nacionales y regionales (nivel 5 y 6 de la tipología) están en preparación.
 
-## Datos y vocabularios
+### Datos y vocabularios
 
 Un documento digital con el contenido de los perfiles para Grupos Funcionales de Ecosistemas de la Tipología Global de Ecosistemas de la UICN (unidades de Nivel 3) está disponible en [https://osf.io/4dcea](https://osf.io/4dcea).
 
 Las traducciones y vocabularios controlados están en preparación.
 
-## Datos geoespaciales / Mapas de distribución indicativos
+### Datos geoespaciales / Mapas de distribución indicativos
 
 Capas geoespaciales en formatos vectoriales (geojson) y raster (geotiff) están disponibles para descarga:
 

@@ -6,19 +6,19 @@ lang: en
 title: Resources
 ---
 
-# International frameworks
+## International frameworks
 
-## Ecosystems in the Global Biodiversity Framework
+### Ecosystems in the Global Biodiversity Framework
 
 Ecosystems are vital for life and are a prominent aspect of the Global Biodiversity Framework, which aims to protect and restore biodiversity. Read this [policy brief](https://iucn.org/resources/policy-brief/ecosystems-global-biodiversity-framework) to learn more about the role of the IUCN Global Ecosystem Typology.
 
-# IUCN Knowledge products
+## IUCN Knowledge products
 
 The [IUCN Red List of Ecosystems official site](https://iucnrle.org/) includes [news](https://iucnrle.org/blog/), [media coverage](https://iucnrle.org/press/media-coverage/) and [events](https://iucnrle.org/events/), and you can read more about the [context of the Global Ecosystem Typology](https://iucnrle.org/global-eco-typo).
 
-# IUCN Global Ecosystems Typology
+## IUCN Global Ecosystems Typology
 
-## Reports and documents
+### Reports and documents
 
 *Version 2.1* was published as Supplementary Material to the following research article:
 
@@ -32,11 +32,11 @@ Translation of version 2.1 into Spanish has been completed in December 2024 and 
 
 Translations in other languages are under preparation.
 
-## Crossreferencing / lower levels
+### Crossreferencing / lower levels
 
 Guidelines and tools for crossreferencing national and regional ecosystem types (level 5 and 6 of the typology) are under preparation. 
 
-## Data and vocabularies
+### Data and vocabularies
 
 A workbook with the text of the functional group profiles is available for download from:
 
@@ -45,7 +45,7 @@ Workbook with profile content for Ecosystem Functional Groups of the IUCN Global
 Translations and machine readable controlled vocabularies are under preparation. 
 
 
-## Geospatial data / Indicative distribution maps
+### Geospatial data / Indicative distribution maps
 
 Geospatial layers in vector (geojson) and raster (geotiff) formats are available for download:
 
