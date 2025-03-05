@@ -6,6 +6,8 @@ lang: es
 title: Resources
 ---
 
+# Recursos
+
 ## Marcos Internacionales
 
 ### Ecosistemas en el Marco Global de Biodiversidad
@@ -19,9 +21,9 @@ El [sitio oficial de la Lista Roja de Ecosistemas de la UICN](https://iucnrle.or
 ## Clasificación Global de Ecosistemas de la UICN
 
 ### Informes y documentos
-*La versión 2.1* (en inglés) fue publicada como Material 
+*La versión 2.1* (en inglés) fue publicada como Material
 Suplementario del siguiente artículo de investigación:
-Keith, D. A., J. R. Ferrer-Paris, E. Nicholson, M. Bishop, B. A, Polidoro, E. Ramirez-Llodra, M. G. Tozer, J. L. Nel, R. Mac Nally, E. J. Gregr, K. E. Watermeyer, F. Essl, D. Faber-Langendoen, J. Franklin, C. E. R. Lehmann, A. Etter, D. J. Roux, J. S. Stark, J. A. Rowland, N. A. Brummitt, U. C. Fernandez-Arcaya, I. M. Suthers, S. K. Wiser, I. Donohue, L. J. Jackson, R. T. Pennington, N. Pettorelli, A. Andrade, A. Lindgaard, T. Tahvanainen, A. Terauds, M. A. Chadwick, N. J. Murray, J. Moat, P. Pliscoff, I. Zager, and R. T. Kingsford (2022) *A function-based typology for Earth’s ecosystems* **Nature**  610, 513–518. DOI:[10.1038/s41586-022-05318-4](https://doi.org/10.1038/s41586-022-05318-4). 
+Keith, D. A., J. R. Ferrer-Paris, E. Nicholson, M. Bishop, B. A, Polidoro, E. Ramirez-Llodra, M. G. Tozer, J. L. Nel, R. Mac Nally, E. J. Gregr, K. E. Watermeyer, F. Essl, D. Faber-Langendoen, J. Franklin, C. E. R. Lehmann, A. Etter, D. J. Roux, J. S. Stark, J. A. Rowland, N. A. Brummitt, U. C. Fernandez-Arcaya, I. M. Suthers, S. K. Wiser, I. Donohue, L. J. Jackson, R. T. Pennington, N. Pettorelli, A. Andrade, A. Lindgaard, T. Tahvanainen, A. Terauds, M. A. Chadwick, N. J. Murray, J. Moat, P. Pliscoff, I. Zager, and R. T. Kingsford (2022) *A function-based typology for Earth’s ecosystems* **Nature**  610, 513–518. DOI:[10.1038/s41586-022-05318-4](https://doi.org/10.1038/s41586-022-05318-4).
 
 *La versión 2.0* fue publicada como un informe de la UICN:
 
