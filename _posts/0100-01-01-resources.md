@@ -53,7 +53,7 @@ Geospatial layers in vector (geojson) and raster (geotiff) formats are available
 
 Keith, David A., Ferrer-Paris, Jose R., Nicholson, Emily, & Kingsford, Richard T. (eds.) (2020). *Indicative distribution maps for Ecosystem Functional Groups - Level 3 of IUCN Global Ecosystem Typology (Version 2.1.1)* [Data set]. **Zenodo**. DOI: [10.5281/zenodo.3546513](http://doi.org/10.5281/zenodo.3546513)
 
-Additional information on maps and other related resources are available at this [info site](https://jrfep.github.io/Ecosystem-profiles-comments/).
+Additional information on maps and other related resources are available at this [info site](https://red-list-ecosystem.github.io/typology-map-info/).
 
 Geospatial features ready to use in Earth Engine are available in the [Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog/IUCN_GlobalEcosystemTypology_current).
 

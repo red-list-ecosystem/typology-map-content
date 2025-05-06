@@ -49,7 +49,7 @@ Capas geoespaciales en formatos vectoriales (geojson) y raster (geotiff) están 
 
 Keith, David A., Ferrer-Paris, Jose R., Nicholson, Emily, & Kingsford, Richard T. (eds.) (2020). *Indicative distribution maps for Ecosystem Functional Groups - Level 3 of IUCN Global Ecosystem Typology (Version 2.1.1)* [Data set]. **Zenodo**. DOI: [10.5281/zenodo.3546513](http://doi.org/10.5281/zenodo.3546513)
 
-Información adicional sobre mapas y otros recursos relacionados está disponible en este [sitio informativo](https://jrfep.github.io/Ecosystem-profiles-comments/).
+Información adicional sobre mapas y otros recursos relacionados está disponible en este [sitio informativo](https://red-list-ecosystem.github.io/typology-map-info/).
 
 Datos geoespaciales listos para usar en Earth Engine están disponibles en el [Catálogo de Datos de Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/IUCN_GlobalEcosystemTypology_current).
 
