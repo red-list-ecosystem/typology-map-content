@@ -36,7 +36,7 @@ Translations in other languages are under preparation.
 
 ### Crossreferencing / lower levels
 
-Guidelines and tools for crossreferencing national and regional ecosystem types (level 5 and 6 of the typology) are under preparation.
+IUCN (2025). **Standards, methods and guidelines for cross-referencing ecosystem classifications and maps to the IUCN Global Ecosystem Typology**. Version 1.0. Keith, D. A., Dayaram, A., Driver, A., Ferrer-Paris, J. R., Francis, R., Hay, S., Murray, N. J., Nicholson, E., Santos, J., Skowno, A. L. & Tozer, M. G. (Eds.). Gland, Switzerland: IUCN. ISBN: 978-2-8317-2348-8. DOI:[10.2305/CPPC6126](https://doi.org/10.2305/CPPC6126).
 
 ### Data and vocabularies
 
