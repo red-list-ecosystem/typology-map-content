@@ -43,7 +43,7 @@ Un documento digital con el contenido de los perfiles para Grupos Funcionales de
 
 Las traducciones y vocabularios controlados están en preparación.
 
-### Datos geoespaciales / Mapas de distribución indicativos
+### Datos geoespaciales / Mapas indictivos de la de distribución
 
 Capas geoespaciales en formatos vectoriales (geojson) y raster (geotiff) están disponibles para descarga:
 
