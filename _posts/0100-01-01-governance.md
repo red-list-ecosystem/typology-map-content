@@ -1,3 +1,11 @@
+---
+layout: default
+published: true
+permalink: /en/governance/
+lang: en
+title: Governance
+---
+
 ## Scientific committee
 
 The IUCN Global Ecosystem Typology (GET) was developed by Red List of Ecosystems (RLE) Thematic Group of the Commission on Ecosystem Management (CEM) and led to IUCN Publication, dedicated web app, and scientific articles.
