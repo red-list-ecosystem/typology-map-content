@@ -33,21 +33,20 @@ Terms of reference for the committee are available upon request.
 
 ### Members of the GET-CSS
 
-- Chair: Prof. David Keith
-- Representative of IUCN Secretariat: Marcos Valderrabano
-- Experts:
+- Chair: David Keith
+- Members: 
+    - Marcos Valderrabano
     - Walter Dodds
     - Janet Franklin
     - Paul Giller
     - Caroline Lehmann
     - Kerry Sink
     - Eva Ramirez-Llodra
-- Young professional:
     - Anisha Dayam
     - Mishal Gudka
     - Roxane Francis
     - Sylvia Hay
-- Technical expert: José R. Ferrer-Paris
+    - José R. Ferrer-Paris
 
 ### Meeting schedule
 

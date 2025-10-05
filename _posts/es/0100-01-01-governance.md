@@ -33,20 +33,19 @@ Los términos de referencia del comité están disponibles previa solicitud.
 ### Miembros del GET-CSS
 
 - Presidente: Prof. David Keith
-- Representante de la Secretaría de la UICN: Marcos Valderrabano
-- Expertos:
+- Miembros: 
+    -Marcos Valderrabano
     - Walter Dodds
     - Janet Franklin
     - Paul Giller
     - Caroline Lehmann
     - Kerry Sink
     - Eva Ramirez-Llodra
-- Jóvenes profesionales:
     - Anisha Dayam
     - Mishal Gudka
     - Roxane Francis
     - Sylvia Hay
-- Experto técnico: José R. Ferrer-Paris
+    - José R. Ferrer-Paris
 
 ### Calendario de reuniones
 
