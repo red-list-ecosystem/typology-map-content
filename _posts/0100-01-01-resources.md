@@ -38,13 +38,24 @@ Translations in other languages are under preparation.
 
 IUCN (2025). **Standards, methods and guidelines for cross-referencing ecosystem classifications and maps to the IUCN Global Ecosystem Typology**. Version 1.0. Keith, D. A., Dayaram, A., Driver, A., Ferrer-Paris, J. R., Francis, R., Hay, S., Murray, N. J., Nicholson, E., Santos, J., Skowno, A. L. & Tozer, M. G. (Eds.). Gland, Switzerland: IUCN. ISBN: 978-2-8317-2348-8. DOI:[10.2305/CPPC6126](https://doi.org/10.2305/CPPC6126).
 
+See also R package [ecoSynthesis](https://github.com/Ecosystem-Indicators-Workflows/ecoSynthesis): The goal of ecoSynthesis is to assist users in the synthesis of cross-referencing information between two classification systems. The package includes examples of cross-referencing from local classifications to the IUCN Global Ecosystem Typology.
+
 ### Data and vocabularies
 
+The IUCN GET is available as a machine readable [controlled vocabulary](https://w3id.org/iucn-get/IUCNEcosystemTypology) hosted by Research Vocabularies Australia.
+
+The source repository for the vocabulary is [hosted in Github](https://github.com/Ecosystem-Indicators-Workflows/IUCN-GET-vocabulary), we welcome comments and suggestions in the [issues board](https://github.com/Ecosystem-Indicators-Workflows/IUCN-GET-vocabulary/issues).
+
+<<!--//
 A workbook with the text of the functional group profiles is available for download from:
 
 Workbook with profile content for Ecosystem Functional Groups of the IUCN Global Ecosystem Typology (Level 3 units) available at [https://osf.io/4dcea](https://osf.io/4dcea)
+//-->
 
-Translations and machine readable controlled vocabularies are under preparation.
+You can access this vocabulary using a range of tools written in different programming languages:
+
+- R package [ecoSynthesis](https://github.com/Ecosystem-Indicators-Workflows/ecoSynthesis)
+- Python module [iucn_get_data](https://github.com/RLE-Assessment/iucn-get-data)
 
 
 ### Geospatial data / Indicative distribution maps
